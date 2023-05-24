@@ -1,0 +1,11 @@
+.{
+ marigin:0;
+ padding:0;
+ box-sizing: border-box;
+}
+.bg-dark{
+background-color: #75767B;
+}
+.mt-50{
+marigin-top:50px;
+}
